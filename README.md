@@ -38,7 +38,7 @@ A web-based version of the classic memory game "Simon" where players try to foll
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simon-game.git
+   git clone https://github.com/yasmeenaothman/simon-game.git
    ```
 2. Navigate to the project directory:
    ```bash
